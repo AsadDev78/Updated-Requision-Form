@@ -1,4 +1,4 @@
-pageextension 50105 MyExtension extends "Purchase Order"
+pageextension 50105 kjskjdjk extends "Purchase Order"
 {
     layout
     {
